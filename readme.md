@@ -4,25 +4,25 @@
 ![1752845240921](https://github.com/user-attachments/assets/f3a9dbdf-97e1-459d-bce6-1ee03ee579e0)
 
 
-#what u need 
-##a oled screen (128*64) 
+# what u need 
+## a oled screen (128*64) 
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9998ac0c-f254-4460-9915-4774ebb10855" />
 
 
-##a lens from a diy vr goggles kits
+## a lens from a diy vr goggles kits
 
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/85e87ea8-5d34-47c2-bfdc-5940dc8b6985" />
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/1b893a46-acb9-4f11-bafa-663d9332bfac" />
 
-####a arduino or esp8266
+## a arduino or esp8266
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/a990bfdd-27d3-494a-8b19-437b5ada4c27" />
 
-##a pair of seethrough glasses with a flat lense
-###example
+## a pair of seethrough glasses with a flat lense
+### example
 
 <img width="225" height="225"  alt="image" src="https://github.com/user-attachments/assets/76bae35e-ea1a-457b-b354-1cc77c721e40" />
 
@@ -32,9 +32,9 @@
 
 
 
-#a button
+# a button
 
-#a potentiometer
+# a potentiometer
 
 so how this works is it works of the peppers ghost effect which works of the internal refraction effect. a common place u see this effect when your window starts acting like a mirror at certain angles
 
@@ -88,17 +88,17 @@ u can try your hand it and modify the scripts to show what u like. like imgs and
 Tip : change these variables underlined to 20 or 30 to make it fit on screen
 
 
-      display.setCursor(<ins>10</ins>, 10);
-      display.print("Time: ");
-      display.println(formattedTime);
-      
-      display.setCursor(<ins>10</ins>, 20);
-      display.print("Date:");
-      display.println(currentDate);
-      
-      display.setCursor(<ins>10</ins> 30);
-      display.print("Day: ");
-      display.println(weekDay);
+   display.setCursor( <ins> 10 </ins> , 10);
+   display.print("Time: ");
+   display.println(formattedTime);
+   
+   display.setCursor(<ins>10</ins>, 20);
+   display.print("Date:");
+   display.println(currentDate);
+   
+   display.setCursor(<ins>10</ins> 30);
+   display.print("Day: ");
+   display.println(weekDay);
 
 
 
