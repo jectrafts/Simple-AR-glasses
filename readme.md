@@ -1,27 +1,27 @@
 
 # a little preview
 
-![1752845240921](https://github.com/user-attachments/assets/f3a9dbdf-97e1-459d-bce6-1ee03ee579e0)
+![1752845240921 (1)](https://github.com/user-attachments/assets/a8fa7e98-1b63-466f-b334-ad4e4113b344)
 
 
 # what u need 
-## 1 a oled screen (128*64) 
+## 1 . oled screen (128*64) 
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9998ac0c-f254-4460-9915-4774ebb10855" />
 
 
-## 2 a lens from a diy vr goggles kits
+## 2. lens from a diy vr goggles kits
 
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/85e87ea8-5d34-47c2-bfdc-5940dc8b6985" />
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/1b893a46-acb9-4f11-bafa-663d9332bfac" />
 
-## 3 a arduino or esp8266
+## 3.  arduino or esp8266
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/a990bfdd-27d3-494a-8b19-437b5ada4c27" />
 
-## 4 a pair of seethrough glasses with a flat lense
+## 4.  pair of seethrough glasses with a flat lense
 ### example
 
 <img width="225" height="225"  alt="image" src="https://github.com/user-attachments/assets/76bae35e-ea1a-457b-b354-1cc77c721e40" />
@@ -32,9 +32,9 @@
 
 
 
-# 5 a button
+# 5. button
 
-# 6 a potentiometer
+# 6 . potentiometer
 
 so how this works is it works of the peppers ghost effect which works of the internal refraction effect. a common place u see this effect when your window starts acting like a mirror at certain angles
 
@@ -85,7 +85,7 @@ u can try your hand it and modify the scripts to show what u like. like imgs and
  i myself have made a onscreen keyboard i have uploaded the code but i havent uploaded a demo cause its a bit hard to record 
  thats also why the time image is a bit blurry its pretty hard to get on camera but look pretty good while wearing
 
-##  Tip : change these variables underlined to 20 or 30 to make it fit on screen
+##  Tip : change these constants underlined to 20 or 30 to make it fit on screen
 
 
    display.setCursor( <ins> 10 </ins> , 10);
