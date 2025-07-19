@@ -80,15 +80,15 @@ void loop() {
   display.setTextSize(1);
   display.setTextColor(WHITE);
 
-  display.setCursor(0, 10);
+  display.setCursor(10, 10);
   display.print("Time: ");
   display.println(formattedTime);
   
-  display.setCursor(0, 20);
+  display.setCursor(10, 20);
   display.print("Date:");
   display.println(currentDate);
   
-  display.setCursor(0, 30);
+  display.setCursor(10, 30);
   display.print("Day: ");
   display.println(weekDay);
   
