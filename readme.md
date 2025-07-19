@@ -1,3 +1,4 @@
+![1752847424344 (1) (2)](https://github.com/user-attachments/assets/926bd824-7b0c-4023-a74a-0ae5bb47741c)
 
 # a little preview
 
