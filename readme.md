@@ -49,6 +49,20 @@ now   solder up the oled
 
 <img width="291" height="173" alt="image" src="https://github.com/user-attachments/assets/21a2748e-533c-421c-a160-5f88c46f5cf9" />
 
+download these libraries
+#include <ESP8266WiFi.h>
+#include <NTPClient.h>
+#include <WiFiUdp.h>
+#include <Wire.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_SSD1306.h>
+
+replace these with youre wifi name and wifi password
+
+const char *ssid     = "wifi name";
+const char *password = "wifi password;
+
+
 and then upload ar time.ino to the esp 
 
 if u havent setup youre esp yet follow this tutorial
