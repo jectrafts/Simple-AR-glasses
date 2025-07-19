@@ -1,8 +1,7 @@
 
 # a little preview
 
-![1752845240921 (1)](https://github.com/user-attachments/assets/a8fa7e98-1b63-466f-b334-ad4e4113b344)
-
+![1752845240921 (1) (1)](https://github.com/user-attachments/assets/3ac6342a-1dbf-4d04-b9a7-31ba160fc5e6)
 
 # what u need 
 ## 1 . oled screen (128*64) 
@@ -41,7 +40,7 @@ so how this works is it works of the peppers ghost effect which works of the int
 how to make it 
 take your oled and stick it on a piece of foam or cardboard and then stick the lens the flatter side facing the screen approximately 1-2 cm away from the screen .
 
-![1752847424344](https://github.com/user-attachments/assets/9b1a177b-5d03-4a39-ba1d-82142315cdf9)
+![1752847424344 (1) (1)](https://github.com/user-attachments/assets/7e113f7c-edc0-4f1a-8c6c-6a0d2be125af)
 
 
 as u can see theyre parrallel
@@ -71,7 +70,8 @@ https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide
 
 now wear the glasses and hold the lens facing towards the screen and move aro0und the arrangement till u get the best image
 
-![1752847424344](https://github.com/user-attachments/assets/9b1a177b-5d03-4a39-ba1d-82142315cdf9)
+![1752847424344 (1) (1)](https://github.com/user-attachments/assets/7e113f7c-edc0-4f1a-8c6c-6a0d2be125af)
+
 
 for me placing it parrallel and 2cm away from the screen gave me the best image while wearing(my eyes do have a slight power of 0.5 )
 
